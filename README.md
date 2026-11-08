@@ -1,1 +1,1 @@
-# abrish-desktop-releases
+# Abrish AI Releases
